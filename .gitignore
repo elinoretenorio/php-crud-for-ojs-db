@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.git
+.phpunit.result.cache
+composer.lock
+git.sh
+coverage/
+vendor/
